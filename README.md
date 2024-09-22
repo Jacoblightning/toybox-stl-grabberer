@@ -1,5 +1,5 @@
 # INFO
-After careful considiration, I have taken down the origional code from this repo as it appeared to break toybox's TOS
+After careful considiration, I have taken down the original code from this repo as it appeared to break Toybox's TOS
 
 Due to this, I have transformed this readme into a tutorial.
 
